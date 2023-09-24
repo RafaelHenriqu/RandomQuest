@@ -1,0 +1,18 @@
+{
+    "Dev":{
+        "Aprender":["Java","Lua","Python","JavaScript","Php","HTML","CSS","Json","API","C#","C++","Ruby","React","SEO","Unity","MySQL","Swift","Kotlin","TypeScript","GameMaker","C"],
+        "Sobre":"Descrição Em breve"
+    },
+    "Art":{
+        "Aprender":["valores Ainda Não Adicionado ","Em breve"],
+        "Sobre":"Descrição Em breve"
+    },
+    "Outros":{
+        "Aprender":["Musica","Desenho","Edição","Informatica","Melhorar O Site","Historia","Mitologia","Programação","Eletronica","Ciencia","Portugues","Ingles","Chines","Japonés","Russo","Matematica","Culinaria","Treinos","Tecnicas De Luta","Mitos & Lendas","Mente Humana","Animais","Romançe","Futuro","Passado","Terror","Animação","iA","Sentimentos","Psicologia","Bíblia"],
+        "Sobre":"Descrição Em breve"
+    },
+    "Variado":{
+        "Aprender":["Radio","Jogo","Amv","Reedit","Site","Nada","Extensão","Estudar","ir Conversar","Progamar Coisas Alatorias"]
+    }
+    
+} 
